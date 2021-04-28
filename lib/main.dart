@@ -5,7 +5,7 @@ import 'core/app_widget.dart';
 void main() {
   runApp(MaterialApp(
     home: AppWidget(),
-    theme: ThemeData(highlightColor: AppColors.white),
+    theme: ThemeData(highlightColor: AppColors.pink),
   )
   );
 }
